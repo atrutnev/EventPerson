@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AgeChanged.cs" />
+    <Compile Include="AgeChanging.cs" />
+    <Compile Include="NameChanged.cs" />
+    <Compile Include="NameChanging.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
